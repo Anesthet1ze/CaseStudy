@@ -1,5 +1,6 @@
 [
     {
+        "Id" : "Coff",
         "Brand": "Java Works",
         "ProductName": "Vanilla Buttercream",
         "GraphicName": "vBcream",
@@ -12,6 +13,7 @@
     },
     
     {
+        "Id" : "Coff1",
         "Brand": "Java Works",
         "ProductName": "Canadian Maple",
         "GraphicName": "CMaple",
@@ -23,6 +25,7 @@
     },
     
     {
+        "Id" : "Coff2"
         "Brand": "Java Works",
         "ProductName": "Belgian Chocolate",
         "GraphicName": "bChoc",
@@ -34,6 +37,7 @@
     },
     
     {
+        "Id" : "Coff3",
         "Brand": "Java Works",
         "ProductName": "Butter Pecan",
         "GraphicName": "bPecan",
@@ -45,6 +49,7 @@
     },
     
     {
+        "Id" : "Coff4",
         "Brand": "Java Works",
         "ProductName": "Italian Amaretto",
         "GraphicName": "iAmar",
@@ -56,7 +61,8 @@
     },
     
    { 
-        "Brand": "Death Wish",
+       "Id" : "Coff5", 
+       "Brand": "Death Wish",
         "ProductName": "Whole Bean",
         "GraphicName": "wBean",
         "CostPrice": "10.99",
@@ -66,7 +72,8 @@
         "Description": "World's strongest coffee!! Dark Roast, whole bean.  Be prepared to be SUPER motivated! Organic and fair trade"
     },
       { 
-        "Brand": "Death Wish",
+        "Id" : "Coff6",
+          "Brand": "Death Wish",
         "ProductName": "Cauldron - Aged Pumpkin",
         "GraphicName": "aPump",
         "CostPrice": "15.99",
@@ -76,7 +83,8 @@
         "Description": "Get ready to get your basic on with this Spicy Atumnal blend- all the pumpkin taste and none of the chemicals. Organic and fair trade"
     },
       { 
-        "Brand": "Death Wish",
+        "Id" : "Coff7",
+          "Brand": "Death Wish",
         "ProductName": "Unsweetened Black Cold Brew",
         "GraphicName": "uCBrew",
         "CostPrice": "15.50",
@@ -86,7 +94,8 @@
         "Description": "As dark as the whole in your chest where your heart should be! Organic and fair trade"
     },
       { 
-        "Brand": "Death Wish",
+        "Id" : "Coff8",
+          "Brand": "Death Wish",
         "ProductName": "Lightly Sweetened Cold Brew",
         "GraphicName": "sCBREW",
         "CostPrice": "15.50",
@@ -96,7 +105,8 @@
         "Description": "This coffee is the perfect combination of bold and sweet to keep your enemies fooled. Organic and fair trade"
     },
       { 
-        "Brand": "Death Wish",
+        "Id" : "Coff9",
+          "Brand": "Death Wish",
         "ProductName": "ODIN cups",
         "GraphicName": "oCup",
         "CostPrice": "10.99",
@@ -106,7 +116,8 @@
         "Description": "Coffee with the strength of the Gods! Get electrified by this dark roast K-Cup blend.  Organic and fair trade"
     },
       { 
-        "Brand": "Kicking Horse",
+        "Id" : "Coff10",
+          "Brand": "Kicking Horse",
         "ProductName": "Smart Ass",
         "GraphicName": "sAss",
         "CostPrice": "8.99",
@@ -116,7 +127,8 @@
         "Description": "A medium roast that is bright and chocately, it's got the kick you're looking for. Organic and fair trade"
     },
         { 
-        "Brand": "Kicking Horse",
+        "Id" : "Coff10",
+            "Brand": "Kicking Horse",
         "ProductName": "Three Sisters",
         "GraphicName": "tSis",
         "CostPrice": "8.99",
@@ -126,6 +138,7 @@
         "Description": "Smooth, savoury and seductive with notes of tobacco, stone fruit and cocoa.  Organic and fair trade"
     },
     { 
+        "Id" : "Coff11",
         "Brand": "Kicking Horse",
         "ProductName": "Grizzly Claw",
         "GraphicName": "gClaw",
@@ -136,6 +149,7 @@
         "Description": "If you like rich, dark chocolate as much as we do, then you will really love Grizzly Claw.  Organic and fair trade"
     },
     { 
+        "Id" : "Coff12",
         "Brand": "Kicking Horse",
         "ProductName": "Kick Ass Dark Roast",
         "GraphicName": "dRoast",
@@ -146,6 +160,7 @@
         "Description": "Just like the title says, a kick ass dark roast!  Get hints of chocolate, malt, molasses and licorice.  Organic and fair trade"
     },
     { 
+        "Id" : "Coff13",
         "Brand": "Kicking Horse",
         "ProductName": "Hola",
         "GraphicName": "hola",
