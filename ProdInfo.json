@@ -3,7 +3,7 @@
         "Brand": "Java Works",
         "ProductName": "Vanilla Buttercream",
         "GraphicName": "vBcream",
-        "CostPrice": 8.99,
+        "CostPrice": "8.99",
         "MSRP": "14.99",
         "QtyOnHand": "13",
         "QtyOnBackOrder": "0",
