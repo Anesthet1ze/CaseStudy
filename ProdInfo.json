@@ -25,7 +25,7 @@
     },
     
     {
-        "Id" : "Coff2"
+        "Id" : "Coff2",
         "Brand": "Java Works",
         "ProductName": "Belgian Chocolate",
         "GraphicName": "bChoc",
