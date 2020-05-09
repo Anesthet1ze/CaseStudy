@@ -1,5 +1,6 @@
 [
     {
+        "Id" : "C1",
         "Brand": "Java Works",
         "ProductName": "Vanilla Buttercream",
         "GraphicName": "vBcream",
@@ -13,6 +14,7 @@
     },
     
     {
+        "Id" : "C2",
         "Brand": "Java Works",
         "ProductName": "Canadian Maple",
         "GraphicName": "CMaple",
@@ -24,6 +26,7 @@
     },
     
     {
+        "Id" : "C3"
         "Brand": "Java Works",
         "ProductName": "Belgian Chocolate",
         "GraphicName": "bChoc",
@@ -35,6 +38,7 @@
     },
     
     {
+        "Id" : "C4"
         "Brand": "Java Works",
         "ProductName": "Butter Pecan",
         "GraphicName": "bPecan",
@@ -46,6 +50,7 @@
     },
     
     {
+        "Id" : "C5"
         "Brand": "Java Works",
         "ProductName": "Italian Amaretto",
         "GraphicName": "iAmar",
@@ -57,6 +62,7 @@
     },
     
    { 
+        "Id" : "C6"
         "Brand": "Death Wish",
         "ProductName": "Whole Bean",
         "GraphicName": "wBean",
@@ -67,6 +73,7 @@
         "Description": "World's strongest coffee!! Dark Roast, whole bean.  Be prepared to be SUPER motivated! Organic and fair trade"
     },
       { 
+        "Id" : "C7",
         "Brand": "Death Wish",
         "ProductName": "Cauldron - Aged Pumpkin",
         "GraphicName": "aPump",
@@ -77,6 +84,7 @@
         "Description": "Get ready to get your basic on with this Spicy Atumnal blend- all the pumpkin taste and none of the chemicals. Organic and fair trade"
     },
       { 
+        "Id" : "C8",
         "Brand": "Death Wish",
         "ProductName": "Unsweetened Black Cold Brew",
         "GraphicName": "uCBrew",
@@ -87,6 +95,7 @@
         "Description": "As dark as the whole in your chest where your heart should be! Organic and fair trade"
     },
       { 
+        "Id" : "C9",
         "Brand": "Death Wish",
         "ProductName": "Lightly Sweetened Cold Brew",
         "GraphicName": "sCBREW",
@@ -97,6 +106,7 @@
         "Description": "This coffee is the perfect combination of bold and sweet to keep your enemies fooled. Organic and fair trade"
     },
       { 
+        "Id" : "C10",
         "Brand": "Death Wish",
         "ProductName": "ODIN cups",
         "GraphicName": "oCup",
@@ -107,6 +117,7 @@
         "Description": "Coffee with the strength of the Gods! Get electrified by this dark roast K-Cup blend.  Organic and fair trade"
     },
       { 
+        "Id" : "C11",
         "Brand": "Kicking Horse",
         "ProductName": "Smart Ass",
         "GraphicName": "sAss",
@@ -117,6 +128,7 @@
         "Description": "A medium roast that is bright and chocately, it's got the kick you're looking for. Organic and fair trade"
     },
         { 
+        "Id" : "C12",
         "Brand": "Kicking Horse",
         "ProductName": "Three Sisters",
         "GraphicName": "tSis",
@@ -127,6 +139,7 @@
         "Description": "Smooth, savoury and seductive with notes of tobacco, stone fruit and cocoa.  Organic and fair trade"
     },
     { 
+        "Id" : "C13",
         "Brand": "Kicking Horse",
         "ProductName": "Grizzly Claw",
         "GraphicName": "gClaw",
@@ -137,6 +150,7 @@
         "Description": "If you like rich, dark chocolate as much as we do, then you will really love Grizzly Claw.  Organic and fair trade"
     },
     { 
+        "Id" : "C14",
         "Brand": "Kicking Horse",
         "ProductName": "Kick Ass Dark Roast",
         "GraphicName": "dRoast",
@@ -147,6 +161,7 @@
         "Description": "Just like the title says, a kick ass dark roast!  Get hints of chocolate, malt, molasses and licorice.  Organic and fair trade"
     },
     { 
+        "Id" : "C15",
         "Brand": "Kicking Horse",
         "ProductName": "Hola",
         "GraphicName": "hola",
