@@ -6,7 +6,6 @@
         "GraphicName": "vBcream",
         "CostPrice": 8.99,
         "MSRP": 14.99,
-        
         "QtyOnHand": 13,
         "QtyOnBackOrder": 0,
         "Description" : "A fluffly golden cake covered in a butter cream icing.  Light Roast, Organic and Fair Trade"
@@ -26,7 +25,7 @@
     },
     
     {
-        "Id" : "C3"
+        "Id" : "C3",
         "Brand": "Java Works",
         "ProductName": "Belgian Chocolate",
         "GraphicName": "bChoc",
@@ -38,7 +37,7 @@
     },
     
     {
-        "Id" : "C4"
+        "Id" : "C4",
         "Brand": "Java Works",
         "ProductName": "Butter Pecan",
         "GraphicName": "bPecan",
@@ -50,7 +49,7 @@
     },
     
     {
-        "Id" : "C5"
+        "Id" : "C5",
         "Brand": "Java Works",
         "ProductName": "Italian Amaretto",
         "GraphicName": "iAmar",
@@ -62,7 +61,7 @@
     },
     
    { 
-        "Id" : "C6"
+        "Id" : "C6",
         "Brand": "Death Wish",
         "ProductName": "Whole Bean",
         "GraphicName": "wBean",
